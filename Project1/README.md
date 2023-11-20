@@ -1,6 +1,8 @@
 # ProgrammingForDataAnalysis
 Programming for Data Analysis
 
+Project 1 ReadMe
+
 The main purpose of the README is just introduce anyone who would visit your repository on how to get it running, what dependencies are used, maybe even what imports.
 How do you get this running in terms of instructions and how to run the Jupiter notebook or the way you're running the Jupiter notebook, like that kind of stuff?
 Brian McGinley 2 minutes 33 seconds
