@@ -2,8 +2,8 @@
 
 This data analytics project uses Python version 3.9.18 programming environment with Jupyter Notebook. <br>
 
-The project file is 'Project1.ipynb' stored in the main directory<br>
-Source data is 'Salary_Data.csv' stored in 'Datasets' folder<br>
+The project file is 'Project1.ipynb' stored in the 'Project1' folder<br>
+Source data is 'Salary_Data.csv' stored in 'Project1/Datasets' folder<br>
 
 ## Python modules used:<br>
 >Pandas version: 2.0.3<br>
